@@ -26,3 +26,4 @@ git remote add origin git@github.com:username/project-name.git
 git push -u origin master
 
 rmdir /s .git
+Made changes to pull 
