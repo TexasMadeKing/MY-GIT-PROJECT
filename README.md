@@ -29,3 +29,5 @@ git push -u origin master
 
 rmdir /s .git
 Made changes to pull 
+// delete all last changes and go back to last commit
+git checkout .
